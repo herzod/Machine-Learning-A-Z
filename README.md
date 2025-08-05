@@ -43,9 +43,3 @@ The main goal of this repo is to:
 - **Experiment beyond the tutorials** to improve my ML understanding  
 - Create a personal **reference for future ML projects**
 
----
-
-## ⚠️ Disclaimer
-
-This repository is for **educational purposes only**.  
-It contains **my personal solutions and experiments**, not the official course material.
