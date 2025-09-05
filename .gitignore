@@ -1,2 +1,23 @@
 /Part 3 - Classification/Section 14 - Logistic Regression/logistic_regression_solution.ipynb
 /Part 2 - Regression/Section 4 - Simple Linear Regression/simple_linear_regression_solution.ipynb
+/Part 3 - Classification/Section 15 - K-Nearest Neighbors (K-NN)/k_nearest_neighbors_solution.ipynb
+/Part 3 - Classification/Section 16 - Support Vector Machine (SVM)/support_vector_machine_solution.ipynb
+/Part 3 - Classification/Section 17 - Kernel SVM/kernel_svm_solution.ipynb
+/Part 3 - Classification/Section 18 - Naive Bayes/naive_bayes_solution.ipynb
+/Part 3 - Classification/Section 19 - Decision Tree Classification/decision_tree_classification_solution.ipynb
+/Part 3 - Classification/Section 20 - Random Forest Classification/random_forest_classification_solution.ipynb
+/Part 4 - Clustering/Section 24 - K-Means Clustering/k_means_clustering_solution.ipynb
+/Part 4 - Clustering/Section 25 - Hierarchical Clustering/hierarchical_clustering_soution.ipynb
+/Part 5 - Association Rule Learning/Section 28 - Apriori/apriori_solution.ipynb
+/Part 5 - Association Rule Learning/Section 29 - Eclat/eclat_solution.ipynb
+/Part 6 - Reinforcement Learning/Section 32 - Upper Confidence Bound (UCB)/upper_confidence_bound_solution.ipynb
+/Part 6 - Reinforcement Learning/Section 33 - Thompson Sampling/thompson_sampling_solution.ipynb
+/Part 7 - Natural Language Processing/Section 36 - Natural Language Processing/natural_language_processing_solution.ipynb
+/Part 8 - Deep Learning/Section 39 - Artificial Neural Networks (ANN)/artificial_neural_network_solution.ipynb
+/Part 8 - Deep Learning/Section 40 - Convolutional Neural Networks (CNN)/convolutional_neural_network_solution.ipynb
+/Part 9 - Dimensionality Reduction/Section 43 - Principal Component Analysis (PCA)/principal_component_analysis_solution.ipynb
+/Part 9 - Dimensionality Reduction/Section 44 - Linear Discriminant Analysis (LDA)/linear_discriminant_analysis_solution.ipynb
+/Part 9 - Dimensionality Reduction/Section 45 - Kernel PCA/kernel_pca_solution.ipynb
+/Part 10 - Model Selection & Boosting/Section 48 - Model Selection/grid_search_solution.ipynb
+/Part 10 - Model Selection & Boosting/Section 48 - Model Selection/k_fold_cross_validation_solution.ipynb
+/Part 10 - Model Selection & Boosting/Section 49 - XGBoost/xg_boost_solution.ipynb
