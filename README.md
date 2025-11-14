@@ -1,7 +1,7 @@
 # Machine Learning A-Z 🧠
 
-This repository contains my personal work and experiments from the **"Machine Learning A-Z"** Udemy course.  
-I use this project to **practice exercises, run experiments, and test my own ideas** to deepen my understanding of Machine Learning and AI concepts.
+This repository contains my personal work and experiments from the "Machine Learning A-Z" Udemy course.  
+I use this project to practice exercises, run experiments, and test my own ideas to deepen my understanding of Machine Learning and AI concepts.
 
 ## 📂 Repository Structure
 
@@ -35,11 +35,4 @@ Each folder contains:
   - `nltk` and other NLP tools (for Part 7)  
 
 ---
-
-## 🚀 Purpose
-
-The main goal of this repo is to:
-- Apply concepts from the course with **hands-on coding**  
-- **Experiment beyond the tutorials** to improve my ML understanding  
-- Create a personal **reference for future ML projects**
 
